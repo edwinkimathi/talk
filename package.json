@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edwinkimathi/talk/issues"
   },
-  "homepage": "https://github.com/edwinkimathi/talk#readme"
+  "homepage": "https://github.com/edwinkimathi/talk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
